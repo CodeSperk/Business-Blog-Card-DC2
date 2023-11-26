@@ -5,16 +5,14 @@
 }
 
 body{
-  background-color: #677489;
   font-family: 'Lato', sans-serif; 
   width: 100%; 
-}
-.card-section{
   display: flex;
   height: 100vh;
   justify-content: center;
   align-items: center;
 }
+
 
 .card-container {
   width: 100%;
